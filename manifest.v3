@@ -4,7 +4,7 @@
   <value name="enabled">yes</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
-  <value name="version">1.0.2</value>
+  <value name="version">1.0.3</value>
   <value name="name">ExternalGitProject_SK_1Project</value>
   <null name="startup_services"/>
   <null name="shutdown_services"/>
@@ -14,13 +14,13 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">9</value>
+  <value name="build">10</value>
   <null name="description"/>
   <value name="created_date">29-06-2026 05:33:25 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-06-29T05:50:52.692874203Z</value>
+  <value name="lastUpdated">2026-06-29T05:54:42.055984989Z</value>
   <value name="wmProjectId">flf4d383df8ec14c3f8cd9c6b7f2c78816</value>
   <value name="creator">Santhosh K</value>
 </Values>
